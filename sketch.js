@@ -2,7 +2,7 @@ var canvas, backgroundImage;
 
 var questions;
 
-var question, contestant, quiz;
+var question, contestant, quiz,contestantCount;
 
 
 function setup(){
